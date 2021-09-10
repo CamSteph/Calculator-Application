@@ -5,7 +5,7 @@
  
 <b>What is this website for?</b>
 
--   This is application wass made to provide users with a functional and simplistic calculator. It provides the user with the most common and basic math operations, such as addition, subtraction, multiplication, and division. 
+-   This is application was made to provide users with a functional and simplistic calculator. It provides the user with the most common and basic math operations, such as addition, subtraction, multiplication, and division. 
 
 <b>Why did you create this project?</b>
 
