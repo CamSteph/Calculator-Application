@@ -1,5 +1,5 @@
 # Calculator Application
- This is a calculator application that demonstrates teh use of classes, event listeners, DOM manipulation and ES6 coding standards.
+ This is a calculator application that demonstrates the use of classes, event listeners, DOM manipulation and ES6 coding standards.
  
  ![image](https://user-images.githubusercontent.com/60676195/132782866-e9409a49-da31-4b40-933e-a7a62b5b29a1.png)
  
